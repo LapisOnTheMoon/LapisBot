@@ -1,0 +1,16 @@
+{
+  "name": "lapisbot",
+  "version": "2.0.0",
+  "description": "2nd version of Lapis Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lapisonthemoon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1",
+    "twitchonlinetracker": "^1.1.0"
+  }
+}
