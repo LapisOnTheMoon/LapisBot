@@ -5,3 +5,5 @@ default.js
 tracker.js 
 idtoban.json
 addrolecode.js
+warnings.json
+.warnings.json
